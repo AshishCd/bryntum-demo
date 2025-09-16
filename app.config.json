@@ -1,0 +1,16 @@
+{
+  "title": "Task editor customization demo (React)",
+  "description": "Shows how to customize the task editor in the React Gantt chart wrapper",
+  "source": [
+    "package.json",
+    "public/data/launch-saas.json",
+    "public/index.html",
+    "public/manifest.json",
+    "src/App.js",
+    "src/App.scss",
+    "src/AppConfig.js",
+    "src/components/ColorField.js",
+    "src/components/FilesTab.js",
+    "src/index.js"
+  ]
+}
